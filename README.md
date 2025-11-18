@@ -1,1 +1,1 @@
-# finger-counter
+# New repo: https://github.com/jjoshlat/fingertracker
